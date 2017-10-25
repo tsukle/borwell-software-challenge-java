@@ -16,7 +16,7 @@ NOTE: You must have Java installed to run this application. [Get it here!](http:
 
 How do I view the source code?
 ------
-You can view the source code by going to the `borwell.software.challenge` folder and following the folders into the class area. This folder contains the two classes that the application uses.  
+You can view the source code by going to the `borwell.software.challenge` folder and following the `src` folder into the class area. This folder contains the two classes that the application uses.  
 You can also open the `borwell.software.challenge` project in Eclipse as it uses the Eclipse packaging system and should open up easily.
 
 How can I re-build/compile the program?
