@@ -57,6 +57,7 @@ public class Main {
 		
 		System.out.print("\n______\n\nThe area of the floor is: " + decimalFormat.format(floorArea) + " metres squared.\nThe required amount of paint is: " + decimalFormat.format(paintRequired) + " litres.\nThe recommended amount of paint is: " + decimalFormat.format(paintRequired + 1) + " litres.\nThe volume of the room is: " + decimalFormat.format(roomVolume) + " metres cubed.");
 		
+		// Pause execution since it's a console app.
 		try {
 			Thread.sleep(60000);
 		} catch (InterruptedException e) {
