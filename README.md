@@ -9,7 +9,7 @@ Write a program that takes as input the dimensions of a room and outputs the fol
 
 How do I use it?
 ------
-In the `out` folder there is a `.jar` file and a `.bat` file. The Jar file is the compiled Java application and the batch file will run a command to run the program in a command prompt window.  
+In the `out/artifacts/BorwellSoftwareChallenge_jar` folder there is a `.jar` file and a `.bat` file. The Jar file is the compiled Java application and the batch file will run a command to run the program in a command prompt window.  
 Alternatively, you can open up a command prompt window, navigate to the folder of the application and run this command: `java -jar programname.jar`.  
 
 NOTE: You must have Java installed to run this application. [Get it here!](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
