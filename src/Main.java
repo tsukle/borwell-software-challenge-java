@@ -14,6 +14,7 @@ public class Main {
         double paintRequired = calculation.PaintRequired(inputs.parsedInputs[2], inputs.parsedInputs[3], inputs.parsedInputs[4], inputs.parsedInputs[5], inputs.parsedInputs[11], inputs.parsedInputs[10], inputs.parsedInputs[9]);
         double roomVolume = calculation.RoomVolume(inputs.parsedInputs[6], inputs.parsedInputs[7], inputs.parsedInputs[8]);
 
+        //Print values.
         outputs.Send(floorArea, paintRequired, roomVolume);
     }
 
